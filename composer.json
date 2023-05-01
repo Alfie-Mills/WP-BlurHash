@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kornrunner/blurhash": "^1.2",
+        "intervention/image": "^2.7"
+    }
+}
